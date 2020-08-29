@@ -19,13 +19,12 @@
 
 ### Other samples of MVVM using Kotlin
 
-* [Presentation Slides PDF] - Presentation slides on this architecture sample.
-   [Presentation Slides PDF]: <https://github.com/WaheedNazir/KotlinScopeFunctions/blob/master/Kotlin%20Scope%20Functions.pdf>
+* [Presentation Slides PDF] - Presentation PDF slides 
+* [Presentation Slides PPTX] - Presentation source file.
+   
 
-* [Presentation Slides PPTX] - Presentation slides on this architecture sample.
-   [Presentation Slides PPTX]: <https://github.com/WaheedNazir/KotlinScopeFunctions/blob/master/Kotlin%20Scope%20Functions.pptx>
-
-
+[Presentation Slides PDF]: <https://github.com/WaheedNazir/KotlinScopeFunctions/blob/master/Kotlin%20Scope%20Functions.pdf>
+[Presentation Slides PPTX]: <https://github.com/WaheedNazir/KotlinScopeFunctions/blob/master/Kotlin%20Scope%20Functions.pptx>
 
 
 ### References
