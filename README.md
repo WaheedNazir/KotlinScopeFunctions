@@ -29,10 +29,10 @@
 
 ### References
 
-https://kotlinlang.org/docs/reference/scope-functions.html
-https://medium.com/androiddevelopers/kotlin-standard-functions-cheat-sheet-27f032dd4326
-https://twitter.com/ppvi/status/1081168598813601793/photo/1
-https://kotlinlang.org/docs/reference/functions.html
-https://www.journaldev.com/19467/kotlin-let-run-also-apply-with
+* https://kotlinlang.org/docs/reference/scope-functions.html
+* https://medium.com/androiddevelopers/kotlin-standard-functions-cheat-sheet-27f032dd4326
+* https://twitter.com/ppvi/status/1081168598813601793/photo/1
+* https://kotlinlang.org/docs/reference/functions.html
+* https://www.journaldev.com/19467/kotlin-let-run-also-apply-with
 
 
