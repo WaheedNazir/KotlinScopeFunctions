@@ -1,7 +1,5 @@
-# KotlinScopeFunctions
+# Kotlin Scope Functions
 
-
-# Presnetation slides
 <img alt="Presnetation slides" height="400px" src="https://github.com/WaheedNazir/KotlinScopeFunctions/blob/master/screens/Slide01.jpeg" />
 <img alt="Presnetation slides" height="400px" src="https://github.com/WaheedNazir/KotlinScopeFunctions/blob/master/screens/Slide02.jpeg" />
 <img alt="Presnetation slides" height="400px" src="https://github.com/WaheedNazir/KotlinScopeFunctions/blob/master/screens/Slide03.jpeg" />
